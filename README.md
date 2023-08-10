@@ -1,10 +1,10 @@
-![image](https://github.com/Shub26vish/Book-Shop-Management-System/assets/127945668/27b7b4f6-e78d-4035-b5bf-a02099815279)# Book-Shop-Management-System
+# Book-Shop-Management-System
 
 Book Store Management System is the web application to automate all kinds of operations in the book shop. The purpose of this software is to manage the books in the book store. Generally, it includes the order processing, stock management and accounts management. I have developed this software to maintains records of sales, purchases and staff record.
 Performing all these tasks manually becomes too complex and time consuming.
 The aim of this project is to gather and analyse and give an in-depth insight of the complete Book Store Management. This system will help to automate the work and make it easier for the manager to manage the Book.
 
-Database:- MYaccess
+Database:- MY Access
 
 Languahe:- DotNet
 
