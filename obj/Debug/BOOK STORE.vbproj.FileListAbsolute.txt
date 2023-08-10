@@ -1,0 +1,23 @@
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\bin\Debug\BOOK STORE.exe
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\bin\Debug\BOOK STORE.pdb
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\bin\Debug\BOOK STORE.xml
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.Form1.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.Resources.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK STORE.vbproj.GenerateResource.Cache
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK STORE.exe
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK STORE.xml
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK STORE.pdb
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmloading.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.MainForm.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.AddBook.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.BookUpdate.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmBookrep.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.Customer.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmbl.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmStaff.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmsupplier.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmViewCustomer.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmsupprep.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmcustorep.resources
+C:\Users\shubham\Documents\Visual Studio 2008\Projects\BOOK STORE\BOOK STORE\obj\Debug\BOOK_STORE.frmemprep.resources
